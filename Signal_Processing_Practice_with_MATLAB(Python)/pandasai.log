@@ -1,0 +1,12 @@
+2023-07-11 16:03:57 [INFO] Question: 売上トップの営業担当者を教えてください
+2023-07-11 16:03:57 [INFO] Running PandasAI with openai LLM...
+2023-07-11 16:03:57 [INFO] Prompt ID: a205eeb0-b078-4aee-8053-d9e60e7377dc
+2023-07-11 16:03:58 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: YOUR-TOKEN. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-11 16:04:35 [INFO] Question: Scoreが一番大きい日付は？
+2023-07-11 16:04:35 [INFO] Running PandasAI with openai LLM...
+2023-07-11 16:04:35 [INFO] Prompt ID: 588cc778-cd52-4f57-a12a-fc29a790ed2b
+2023-07-11 16:04:36 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: YOUR-TOKEN. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-11 16:04:50 [INFO] Question: Scoreが一番大きい日付は？
+2023-07-11 16:04:50 [INFO] Running PandasAI with openai LLM...
+2023-07-11 16:04:50 [INFO] Prompt ID: dbfe0f03-8af1-4d2e-8b21-17c52a6e3aa5
+2023-07-11 16:04:51 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: YOUR-TOKEN. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False

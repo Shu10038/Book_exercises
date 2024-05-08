@@ -1,0 +1,23 @@
+digraph {
+	subgraph "cluster3 x 6" {
+		effects [label="effects
+~
+Normal" shape=ellipse]
+		sigma [label="sigma
+~
+Exponential" shape=ellipse]
+		mu [label="mu
+~
+Normal" shape=ellipse]
+		label="3 x 6" labeljust=r labelloc=b style=rounded
+	}
+	subgraph cluster100 {
+		y_obj [label="y_obj
+~
+Poisson" shape=ellipse style=filled]
+		label=100 labeljust=r labelloc=b style=rounded
+	}
+	sigma -> effects
+	mu -> effects
+	effects -> y_obj
+}
